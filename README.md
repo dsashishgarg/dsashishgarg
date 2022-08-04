@@ -50,5 +50,5 @@
   <div align="center">
     <h2 align="center">Thank You</h2> 
   </div>
-<code>
+</code>
 
