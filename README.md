@@ -1,4 +1,5 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Ashish+Garg) 
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Ashish+Garg)
+
 <div align="center">
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
@@ -7,7 +8,6 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/dsashishgarg"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ashishlovesdata"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/datasciencedecoded/"><img height="30" src="https://img.shields.io/github/followers/dsashishgarg?label=Follow&style=social"></a>&nbsp;&nbsp;
   <a href="https://github.com/dsashishgarg"><img height="30" src="https://img.shields.io/github/followers/dsashishgarg?label=Follow&style=social"></a>&nbsp;&nbsp;
  </p>
 
@@ -17,7 +17,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Experienced Data Scientist and Technology Consultant with a demonstrated history of working in the Supply Chain and Financial domain.</b> :blush:</em>
 
-###  Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
@@ -31,7 +31,7 @@
 </div>
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=dsashishgarg&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
-  
+
   <div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/dsashishgarg">
@@ -42,10 +42,7 @@
      </a>
      <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=dsashishgarg&theme=react&hide_border=true" />
 </code>
-   
-
   <div align="center">
-    <h2 align="center">Extra Curriculars</h2> 
+    <h2 align="center">Thank You</h2> 
   </div>
 <code>
-<img align='center'  height="70" alt="Thanks" width="100%" src="">
