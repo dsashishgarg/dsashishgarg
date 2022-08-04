@@ -20,15 +20,20 @@
 ### Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-</code>
-
+     <img src="https://user-images.githubusercontent.com/39427208/182770556-754987c8-ff9a-441f-b0f7-2e767cce86a8.svg" alt="Python" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182768329-9a88df19-bc14-4684-ab09-4eb5b1d2777e.svg" alt="Analytics" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182768726-421a6ae5-5eba-4315-8bbb-1176c6ece8d3.png" alt="Azure" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182770186-181045bf-27f0-49ad-838a-583044406f23.svg" alt="Azure Functions" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182768957-a6be67ad-91e6-4c3c-b58a-4d56378a1252.svg" alt="Azure SQL" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182769138-28941096-c367-40fd-b1d1-1dc2ca0f4d59.svg" alt="Azure Postgres" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182770420-38c47dee-b1ec-446e-b5ae-fb0db69d911a.svg" alt="Tableau" width="40" height="40"/>
+   <img src="https://user-images.githubusercontent.com/39427208/182768585-5ed20048-24af-4630-941d-4e25aadbcbd3.png" alt="Power Bi" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/39427208/182769081-86af3bca-cbb3-415a-8dd7-2159b2cccbb1.svg" alt="Azure Data Factory" width="40" height="40"/>
+  </p>
 <div align="center">
     <h4 align="center">Some of my Projects - <a href="https://github.com/dsashishgarg?tab=repositories/">Click Here!</a></h4>
 </div>
+
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=dsashishgarg&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
@@ -46,3 +51,4 @@
     <h2 align="center">Thank You</h2> 
   </div>
 <code>
+
