@@ -40,11 +40,13 @@
   <div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/dsashishgarg">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsashishgarg&show_icons=true&theme=react&line_height=27" alt="Amitesh's Github Stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsashishgarg&show_icons=true&theme=react&line_height=27" alt="Ashish's Github Stats"/>
     </a>
+    </p>
     <a href="https://github.com/dsashishgarg">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsashishgarg&theme=react&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
      </a>
+     </p>
      <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=dsashishgarg&theme=react&hide_border=true" />
 </code>
   <div align="center">
